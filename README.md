@@ -19,15 +19,17 @@ RunwayML, Pika Labs, Synthesia, Kaiber AI, Canva AI Video, Luma AI.
 Output:
 The document must contain the following:
 
-Prompts Used 
+Prompt:
+Simple Prompt
 
-AI-generated Videos link 
+Create a 10-second video showing a new smartphone launch. The phone rotates on a platform with bright lighting and a modern background.
 
-Screenshots of generated scenes 
+Detailed Prompt
 
-Comparison between simple and detailed prompts 
+Create a 10-second cinematic product launch video featuring a premium flagship smartphone placed on a glossy black platform. Begin with a slow zoom-in shot from a dark studio environment illuminated by blue and purple neon lights. The smartphone smoothly rotates 360 degrees while realistic reflections appear on the platform surface. Add futuristic holographic interface animations around the device, highlighting key features such as the camera, display, and processor. Use dynamic camera movements, depth-of-field effects, dramatic lighting transitions, and high-resolution rendering. Include sleek motion graphics and particle effects to create a premium technology advertisement feel. End with a close-up shot of the smartphone's display and camera module along with a glowing brand logo.
 
-Observations and analysis
+Observations:
+<img width="981" height="287" alt="image" src="https://github.com/user-attachments/assets/aca596e5-98b3-4f6d-88be-62d5718c01a1" />
 
 Result:
 Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures.
